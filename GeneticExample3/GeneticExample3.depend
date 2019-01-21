@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1547935938 source:c:\users\cxnotebook\desktop\pictures of project\geneticexample3\main.cpp
+	<iostream>
+	<string>
+	"Chromosome.h"
+	"GeneticAlgorithm.h"
+	<ctime>
+
+1547807442 c:\users\cxnotebook\desktop\pictures of project\geneticexample3\chromosome.h
+	<string>
+	<string>
+	<sstream>
+
+1547809795 source:c:\users\cxnotebook\desktop\pictures of project\geneticexample3\chromosome.cpp
+	"Chromosome.h"
+
+1547936429 source:c:\users\cxnotebook\desktop\pictures of project\geneticexample3\geneticalgorithm.cpp
+	"GeneticAlgorithm.h"
+
+1547896903 c:\users\cxnotebook\desktop\pictures of project\geneticexample3\geneticalgorithm.h
+	<vector>
+	"Chromosome.h"
+	<vector>
+	<cstdlib>
+	<iostream>
+	<map>
+
